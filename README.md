@@ -1,5 +1,5 @@
 # rust-raytrace
-Just starting out in Rust.
+Just starting out in Rust, learning to use some more advanced methods.
 
 Heavily inspired by the excellent series, https://bheisler.github.io/post/writing-raytracer-in-rust-part-1/.
 
